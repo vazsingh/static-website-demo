@@ -1,8 +1,8 @@
 site: Gesko
 title: A static demo website
-greetings: Hi 👋
+greetings: Hi, I'm Vaz 👋
 description: >-
-  just a minimalist, personal blog
+  This is a static website for demonstration purposes
 lang: en-US
 timezone:  Europe/London
 repo: https://github.com/vazsingh/static-website-demo # site repo [optional]
