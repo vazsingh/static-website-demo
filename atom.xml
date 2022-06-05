@@ -4,7 +4,7 @@
  <title>A static demo website</title>
  <link href="https://vazsingh.github.io/static-website-demo/atom.xml" rel="self"/>
  <link href="https://vazsingh.github.io/static-website-demo/"/>
- <updated>2022-06-05T16:53:30+01:00</updated>
+ <updated>2022-06-05T22:43:49+01:00</updated>
  <id>https://vazsingh.github.io</id>
  <author>
    <name>gesko</name>
@@ -13,10 +13,10 @@
 
  
  <entry>
-   <title>Difference between font formats</title>
-   <link href="https://vazsingh.github.io/static-website-demo/2019/08/31/difference-between-font-formats"/>
-   <updated>2019-08-31T00:00:00+01:00</updated>
-   <id>https://vazsingh.github.io/2019/08/31/difference-between-font-formats</id>
+   <title>Welcome</title>
+   <link href="https://vazsingh.github.io/static-website-demo/2022/06/05/welcome"/>
+   <updated>2022-06-05T00:00:00+01:00</updated>
+   <id>https://vazsingh.github.io/2022/06/05/Welcome</id>
    <content type="html">&lt;h1 id=&quot;h1&quot;&gt;h1&lt;/h1&gt;
 
 &lt;h2 id=&quot;h2&quot;&gt;h2&lt;/h2&gt;
